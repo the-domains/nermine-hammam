@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nermine Hammam]]></title>
+        <description><![CDATA[Nermine Hammam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 00:48:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anachrony]]></title>
+            <description><![CDATA[<article><h1>Anachrony</h1><p>Nermine Hammam is a Cairo-based visual artist making densely composed figurative prints existing between painting and photography. Born in Cairo (1967), Nermine obtained her BFA in filmmaking from New York University’s Tisch School of Arts, going on to work with Simon & Goodman and renowned film director Youssef Chahine. She also served as production assistant in the movie Malcolm X.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a974033-1254-477c-a7eb-3e29769c0beb.jpg"></article>]]></description>
+            <link>undefinedanachrony/index.html</link>
+            <guid isPermaLink="false">3c778102-d946-4840-ad5b-cd418b948859</guid>
+            <pubDate>Tue, 12 Jul 2016 00:48:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
